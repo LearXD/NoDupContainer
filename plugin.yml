@@ -1,0 +1,8 @@
+name: NoDupContainer
+version: 0.0.2
+api: [1.4.0, 2.0.0]
+website: "https://github.com/LearXD"
+description: "Um plugin de prevenção de DUPs usando qualquer item com Storage!"
+author: LearXD
+
+main: learxd\nodup\Loader
